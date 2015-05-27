@@ -1,4 +1,6 @@
-#General Assembly Data Science Course 22 June-Aug 2015
+#General Assembly Data Science Course 22 
+
+#June 3-Aug 19 2015
 
 ##Syllabus
 | Date          | Location       | Topic                          | Assignment Due |
@@ -23,6 +25,6 @@
 | Mon August 3  |                |                                |                |
 | Wed August 5  |                |                                |                |
 | Mon August 10 |                |                                |                |
-| Mon August 12 |                |  Review                        |                |
+| Wed August 12 |                |  Review                        |                |
 | Mon August 17 |                |  Project Presentation Workshop |                |
-| Mon August 19 |                |  Project Presentations         |                |
+| Wed August 19 |                |  Project Presentations         |                |

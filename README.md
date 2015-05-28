@@ -22,9 +22,9 @@
 | Wed July 22   |                | Recommendeation Systems        |                |
 | Mon July 27   |                | Guest Speakers                 |                |
 | Wed July 29   |                | Support Vector Machines        |                |
-| Mon August 3  |                | Neural Networks 1              |                |
-| Wed August 5  |                | Neural Networks 2              |                |
-| Mon August 10 |                | Spark                          |                |
+| Mon August 3  |                | Visualization            ?     |                |
+| Wed August 5  |                | Databases                ?     |                |
+| Mon August 10 |                | Spark                    ?     |                |
 | Wed August 12 |                | Review                         |                |
 | Mon August 17 |                | Project Presentation Workshop  |                |
 | Wed August 19 |                | Project Presentations          |                |

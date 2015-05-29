@@ -1,11 +1,11 @@
 #General Assembly Data Science Course 22 
 
-##June 3-Aug 19 2015
+###June 3-Aug 19 2015
 
 #Instructor Team and Office Hours
 
-###Mark is available by appointment - send an email: mrgh@me.com
-###Susan is available during her regular office hours:
+Mark is available by appointment - send an email: mrgh@me.com
+Susan is available during her regular office hours:
 
 and also by appointment - send an email:
 
@@ -35,3 +35,16 @@ and also by appointment - send an email:
 | Wed August 12 |                | Review                         |                |
 | Mon August 17 |                | Project Presentation Workshop  |                |
 | Wed August 19 |                | Project Presentations          |                |
+
+
+#Getting Help
+
+Ask
+
+Your first port of call is to ask Susan or Mark.
+
+#Submitting Homework
+
+Almost all of the homework will be done using the iPython Notebook environment. 
+
+All homework can be sent as an attachment to the instructional team (send it to all of us!)

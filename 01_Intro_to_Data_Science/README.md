@@ -1,21 +1,21 @@
-###Lesson 1 Introduction to Data Science
-#June 3rd 2015
+#Lesson 1 Introduction to Data Science
+###June 3rd 2015
 
-#Objectives for this class:
+###Objectives for this class:
 
 - Get to know each other!
 - Setup your computer environment
 - Discuss Data Science
 
-#Download and Install the Anaconda Scientific Python Distribtuion
+###Download and Install the Anaconda Scientific Python Distribtuion
 
 https://store.continuum.io/cshop/anaconda/
 
 This includes the iPython Notebook environment
 
-#or
+###or
 
-#Working within a Virtual Environment
+###Working within a Virtual Environment
 
 Step 1: Download and install VirtualBox
 

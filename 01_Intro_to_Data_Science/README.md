@@ -20,9 +20,7 @@ This includes the iPython Notebook environment
 #####Step 1: Download and Install VirtualBox
 
  - Download the appropriate binary: 
- 
 https://www.virtualbox.org/wiki/Downloads
-
  - Follow the installations instructions.
 
 #####Step 2: Download and Install Vagrant

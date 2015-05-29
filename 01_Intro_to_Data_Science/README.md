@@ -48,7 +48,7 @@ Step 4: MAC OS X or LINUX
 
 $ vagrant ssh
 
-##-OR-
+##-or-
 
 #####Step 4: MICROSOFT WINDOWS
 
@@ -109,5 +109,6 @@ vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
  - From the home directory:
 
 vagrant@data-science-toolbox:~$ cd ~/ 
+
 vagrant@data-science-toolbox:~$ git clone git@github.com/https://github.com/ga-students/GADS-22-NYC.git
 

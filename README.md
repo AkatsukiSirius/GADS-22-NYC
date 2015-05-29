@@ -9,7 +9,7 @@ Susan is available during her regular office hours:
 
 and also by appointment - send an email:
 
-##Syllabus
+#Syllabus
 | Date          | Location       | Topic                          | Assignment Due |
 | :------------ |:---------------|:-------------------------------|:---------------|
 | Wed June 3    | GA West        | Intro To Data Science          | N/A            |

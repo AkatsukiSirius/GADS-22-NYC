@@ -17,19 +17,19 @@ This includes the iPython Notebook environment
 
 ###Working within a Virtual Environment
 
-Step 1: Download and Install VirtualBox
+####Step 1: Download and Install VirtualBox
 
  - Go to the Virtualbox download page and download the appropriate binary. 
  - https://www.virtualbox.org/wiki/Downloads
  - Follow the installations instructions.
 
-Step 2: Download and Install Vagrant
+####Step 2: Download and Install Vagrant
 
  - Go the Vagrant download page and download the appropriate binary. 
  - https://www.vagrantup.com/
  - Follow the installations instructions.
 
-Step 3: Download and start the Data Science Toolbox
+####Step 3: Download and start the Data Science Toolbox
 
  - Open a terminal (also known as the command prompt in Microsoft Windows). 
  - Create a directory, name it, (for example "gadatasciencetoolbox"), then navigate to it:
@@ -48,7 +48,9 @@ Step 4: MAC OS X or LINUX
 
 $ vagrant ssh
 
-Step 4: MICROSOFT WINDOWS
+####-OR-
+
+####Step 4: MICROSOFT WINDOWS
 
  - If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. 
  - We recommend Putty. 
@@ -63,7 +65,7 @@ Connection type: SSH
  - You can save these values as a session by clicking the "Save" button, prevents you from having to re-enter them.
  - Click the "Open" button and enter "vagrant" for both the username and the password.
 
-Step 5: Install GA Data Science Bundle
+####Step 5: Install GA Data Science Bundle
 
  - Execute these commands:
 
@@ -72,7 +74,7 @@ vagrant@data-science-toolbox:~$ dst add gads
 
  - Note that vagrant@data-science-toolbox:~ indicates that this command should be run on the Data Science Toolbox.
 
-Step 6: Set up IPython Notebook
+####Step 6: Set up IPython Notebook
 
  - Now that you are logged into your new virtual machine, execute the following command to create a password-protected profile:
 
@@ -101,15 +103,11 @@ vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
 - Because the SSL certificate is self-signed, you may get a warning message from your browser. 
 - Just click to proceed.
 
-Fork the assignments repo:
+####Step 7: Fork the assignments repo:
 
-Once you've setup the Data Science Toolbox, clone your fork of the class repository. We'll be using the Fork and Pull git model. You will be pushing changes to your forked repository, and submitting pull requests to the class repository.
+ - Clone your fork of the class repository. 
+ - From the home directory:
 
-From the github help page:
-
-    The Fork & Pull Model lets anyone fork an existing repository and push changes to their personal fork without requiring access be granted to the source repository. The changes must then be pulled into the source repository by the project maintainer.
-
-For example, from the home directory:
-
-vagrant@data-science-toolbox:~$ cd ~/; git clone git@github.com/<my git handle>/fall_2014_assignments.git
+vagrant@data-science-toolbox:~$ cd ~/ 
+vagrant@data-science-toolbox:~$ git clone git@github.com/<my git handle>/fall_2014_assignments.git
 

@@ -13,23 +13,23 @@ https://store.continuum.io/cshop/anaconda/
 
 This includes the iPython Notebook environment
 
-###or
+##-or-
 
-###Working within a Virtual Environment
+###Work within a Virtual Environment
 
-####Step 1: Download and Install VirtualBox
+#####Step 1: Download and Install VirtualBox
 
  - Go to the Virtualbox download page and download the appropriate binary. 
  - https://www.virtualbox.org/wiki/Downloads
  - Follow the installations instructions.
 
-####Step 2: Download and Install Vagrant
+#####Step 2: Download and Install Vagrant
 
  - Go the Vagrant download page and download the appropriate binary. 
  - https://www.vagrantup.com/
  - Follow the installations instructions.
 
-####Step 3: Download and start the Data Science Toolbox
+#####Step 3: Download and start the Data Science Toolbox
 
  - Open a terminal (also known as the command prompt in Microsoft Windows). 
  - Create a directory, name it, (for example "gadatasciencetoolbox"), then navigate to it:
@@ -48,9 +48,9 @@ Step 4: MAC OS X or LINUX
 
 $ vagrant ssh
 
-####-OR-
+##-OR-
 
-####Step 4: MICROSOFT WINDOWS
+#####Step 4: MICROSOFT WINDOWS
 
  - If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. 
  - We recommend Putty. 
@@ -65,7 +65,7 @@ Connection type: SSH
  - You can save these values as a session by clicking the "Save" button, prevents you from having to re-enter them.
  - Click the "Open" button and enter "vagrant" for both the username and the password.
 
-####Step 5: Install GA Data Science Bundle
+#####Step 5: Install GA Data Science Bundle
 
  - Execute these commands:
 
@@ -74,7 +74,7 @@ vagrant@data-science-toolbox:~$ dst add gads
 
  - Note that vagrant@data-science-toolbox:~ indicates that this command should be run on the Data Science Toolbox.
 
-####Step 6: Set up IPython Notebook
+#####Step 6: Set up IPython Notebook
 
  - Now that you are logged into your new virtual machine, execute the following command to create a password-protected profile:
 
@@ -103,7 +103,7 @@ vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
 - Because the SSL certificate is self-signed, you may get a warning message from your browser. 
 - Just click to proceed.
 
-####Step 7: Fork the assignments repo:
+#####Step 7: Fork the assignments repo:
 
  - Clone your fork of the class repository. 
  - From the home directory:

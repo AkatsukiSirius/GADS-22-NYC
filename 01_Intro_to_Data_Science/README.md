@@ -26,18 +26,18 @@ https://www.virtualbox.org/wiki/Downloads
 #####Step 2: Download and Install Vagrant
 
  - Download the appropriate binary: 
- - https://www.vagrantup.com/
+https://www.vagrantup.com/
  - Follow the installations instructions.
 
-#####Step 3: Download and start the Data Science Toolbox
+#####Step 3: Download and Start the Data Science Toolbox
 
- - Open a terminal (also known as the command prompt in Microsoft Windows). 
- - Create a directory, name it, (for example "gadatasciencetoolbox"), then navigate to it:
+ - Open a terminal (MAC OS, LINUX) or a command prompt (WINDOWS). 
+ - Create a directory & name it, (for example "gadatasciencetoolbox"), then navigate to it:
 
 $ mkdir MyDataScienceToolbox
 $ cd MyDataScienceToolbox
 
-- Execute the following commands
+- Execute the following commands:
 
 $ vagrant init data-science-toolbox/dst
 $ vagrant up
@@ -54,15 +54,15 @@ $ vagrant ssh
 
  - If you are running Microsoft Windows, you need to use a third-party application in order to log in to the Data Science Toolbox. 
  - We recommend Putty. 
- - Download Putty.
- - http://www.putty.org/
+ - Download Putty:
+http://www.putty.org/
  - Execute putty.exe and enter the following values:
 
 Host Name (or IP address): 127.0.0.1
 Port: 2222
 Connection type: SSH
 
- - You can save these values as a session by clicking the "Save" button, prevents you from having to re-enter them.
+ - You can save these values as a session by clicking the "Save" button, which prevents you from having to re-enter them.
  - Click the "Open" button and enter "vagrant" for both the username and the password.
 
 #####Step 5: Install GA Data Science Bundle
@@ -72,7 +72,7 @@ Connection type: SSH
 vagrant@data-science-toolbox:~$ dst update
 vagrant@data-science-toolbox:~$ dst add gads
 
- - Note that vagrant@data-science-toolbox:~ indicates that this command should be run on the Data Science Toolbox.
+ - Note that    vagrant@data-science-toolbox:~    indicates that this command should be run on the Data Science Toolbox.
 
 #####Step 6: Set up IPython Notebook
 

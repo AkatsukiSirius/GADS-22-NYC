@@ -1,6 +1,13 @@
 #General Assembly Data Science Course 22 
 
-#June 3-Aug 19 2015
+##June 3-Aug 19 2015
+
+#Instructor Team and Office Hours
+
+###Mark is available by appointment - send an email: mrgh@me.com
+###Susan is available during her regular office hours:
+
+and also by appointment - send an email:
 
 ##Syllabus
 | Date          | Location       | Topic                          | Assignment Due |

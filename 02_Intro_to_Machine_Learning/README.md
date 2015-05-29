@@ -4,7 +4,7 @@
 ###Objectives for this class:
 
 - Cover some of the essential concepts of Machine Learning
-- Establish understanding and comfort with our ML tools:
+- Establish some familiarity with our ML tools:
   - iPython Notebook
   - Python
   - Numpy

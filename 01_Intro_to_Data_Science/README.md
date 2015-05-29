@@ -81,7 +81,7 @@ vagrant@data-science-toolbox:~$ dst add gads
 vagrant@data-science-toolbox:~$ dst setup base
 
 - Exit out of the virtual machine
--
+
 vagrant@data-science-toolbox:~$ exit
 
 - Use your favorite text editor to open up the Vagrantfile in the MyDataScienceToolbox directory. 
@@ -109,5 +109,5 @@ vagrant@data-science-toolbox:~$ sudo ipython notebook --profile=dst
  - From the home directory:
 
 vagrant@data-science-toolbox:~$ cd ~/ 
-vagrant@data-science-toolbox:~$ git clone git@github.com/<my git handle>/fall_2014_assignments.git
+vagrant@data-science-toolbox:~$ git clone git@github.com/https://github.com/ga-students/GADS-22-NYC.git
 

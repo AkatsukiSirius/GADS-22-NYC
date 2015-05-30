@@ -1,14 +1,14 @@
 #Data Science Links
 
- * [Analyzing the Analyzers. An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
+* [Analyzing the Analyzers. An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
  
 Classifies data scientists into several categories that are fairly distinct. Helps to understand the breadth of what "data science" can mean.
 
 -
 
- * [Data Jujitsu](http://radar.oreilly.com/2012/07/data-jujitsu.html) 
+* [Data Jujitsu](http://radar.oreilly.com/2012/07/data-jujitsu.html) 
 
- * [The Drivetrain Approach](http://strata.oreilly.com/2012/03/drivetrain-approach-data-products.html)
+* [The Drivetrain Approach](http://strata.oreilly.com/2012/03/drivetrain-approach-data-products.html)
  
 Two articles on the data scientist as a kind of clever product engineer.
 
@@ -88,7 +88,7 @@ Describes workflow with some complexity.
 
  * [install Git Bash](http://openhatch.org/missions/windows-setup/install-git-bash).
 
-If you’re running Windows.
+ If you’re running Windows.
 
 -
 
@@ -106,7 +106,7 @@ If you’re running Windows.
 
 * [Git Basics](https://www.atlassian.com/git/tutorial/git-basics).
 
-For more explanation about git.
+ For more explanation about git.
 
 -
 

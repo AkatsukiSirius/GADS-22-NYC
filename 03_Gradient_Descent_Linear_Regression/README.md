@@ -1,12 +1,13 @@
-#Lesson 2 Introduction to Machine Learning
-###June 8th 2015
+#Lesson 3 Introduction Linear Regression and Gradient Descent
+###June 10th 2015
 
 ###Objectives for this class:
 
-- Cover some of the essential concepts of Machine Learning
-- Establish some familiarity with our ML tools:
+- Continue to establish some familiarity with our ML tools:
   - iPython Notebook
   - Python
   - Numpy
   - Pandas
   - Matplotlib
+
+ - Understand the hypothesis function and the cost function using univariate linear regression as an example

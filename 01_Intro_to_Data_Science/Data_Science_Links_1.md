@@ -111,7 +111,7 @@
 -
 
 * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf).
-  
+ 
 - 
 
 * [Pro Git](http://git-scm.com/book).

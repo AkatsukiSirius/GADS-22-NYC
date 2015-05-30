@@ -80,43 +80,47 @@ Describes workflow with some complexity.
 
 -
 
- * If you’re running Mac OS X, `bash` is what you have by default in `Terminal`. You should [install homebrew](http://brew.sh/#install). Then `brew install git`.
+ * [install homebrew](http://brew.sh/#install). 
+ 
+ If you’re running Mac OS X.
  
 -
 
- * If you’re running Windows, you should [install Git Bash](http://openhatch.org/missions/windows-setup/install-git-bash).
--
+ * [install Git Bash](http://openhatch.org/missions/windows-setup/install-git-bash).
 
- * If you’re running Linux, you run `bash` or know better, and can install `git`.
+If you’re running Windows.
 
 -
 
  * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/). 
+ 
  If you haven’t used a command line interface like `bash`; ignore the stuff about PowerShell.
 
 -
 
- * [Try Git](http://try.github.io/)
+ * [Try Git](http://try.github.io/).
+ *
  If you haven't used `git`, this will teach you the basics in 15 minutes, in your browser. 
 
 -
 
 * [Git Basics](https://www.atlassian.com/git/tutorial/git-basics).
 
-For a little more explanation.
+For more explanation about git.
 
 -
 
- * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf)
+ * [Bash Guide for Beginners](http://writers.fultus.com/garrels/ebooks/Machtelt_Garrels_Bash_Guide_for_Beginners_2nd_Ed.pdf).
   
 - 
 
- * [Pro Git](http://git-scm.com/book)
+ * [Pro Git](http://git-scm.com/book).
 
 -
 
- *  [tutorials from Codecademy](http://www.codecademy.com/tracks/python). 
-If you haven't used `python`, the in-browser interactive tutorials aren't bad. They take some time to go through; skip the projects if you want to just work through the syntax.
+ *  [tutorials from Codecademy](http://www.codecademy.com/tracks/python)
+ 
+If you haven't used `python`, these in-browser interactive tutorials aren't bad. They take some time to go through; skip the projects if you want to just work through the syntax.
 
 -
 

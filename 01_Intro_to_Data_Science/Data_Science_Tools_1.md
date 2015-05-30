@@ -38,7 +38,7 @@
 
 -
 
-*  [tutorials from Codecademy](http://www.codecademy.com/tracks/python)
+*  [Tutorials from Codecademy](http://www.codecademy.com/tracks/python)
  
  If you haven't used `python`, these in-browser interactive tutorials aren't bad. They take some time to go through; skip the projects if you want to just work through the syntax.
 

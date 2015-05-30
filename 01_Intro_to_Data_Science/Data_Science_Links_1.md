@@ -4,7 +4,7 @@
  
 Classifies data scientists into several categories that are fairly distinct. Helps to understand the breadth of what "data science" can mean.
 
-----
+-
 
  * [Data Jujitsu](http://radar.oreilly.com/2012/07/data-jujitsu.html) 
 

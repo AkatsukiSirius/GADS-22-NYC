@@ -2,7 +2,7 @@
 
 * [Analyzing the Analyzers. An Introspective Survey of Data Scientists and Their Work](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf)
  
-Classifies data scientists into several categories that are fairly distinct. Helps to understand the breadth of what "data science" can mean.
+ Classifies data scientists into several categories that are fairly distinct. Helps to understand the breadth of what "data science" can mean.
 
 -
 

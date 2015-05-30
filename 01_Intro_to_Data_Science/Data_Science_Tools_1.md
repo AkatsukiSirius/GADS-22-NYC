@@ -1,12 +1,12 @@
 #Data Science Links
 
-* [install homebrew](http://brew.sh/#install). 
+* [Installing homebrew - Mac](http://brew.sh/#install). 
  
  If you’re running Mac OS X.
  
 -
 
-* [install Git Bash](http://openhatch.org/missions/windows-setup/install-git-bash).
+* [Installing Git Bash - Windows](http://openhatch.org/missions/windows-setup/install-git-bash).
 
  If you’re running Windows.
 
@@ -60,29 +60,33 @@
 
 -
 
-* Atlassian has [more tutorials on git](https://www.atlassian.com/git/).
+* [More tutorials on git](https://www.atlassian.com/git/).
+
+ From Atlassian.
 
 -
 
-* This [d3 interactive](http://www.wei-wang.com/ExplainGitWithD3/).
+* This [D3 interactive](http://www.wei-wang.com/ExplainGitWithD3/).
 
  Lets you explore what various git workflow processes do.
 
 -
 
-* [git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html).
+* [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet.html).
 
  Shows a lot of `git` in context.
 
 -
 
-* The official [Python Tutorial](http://docs.python.org/2/tutorial/).
+* [Python Tutorial](http://docs.python.org/2/tutorial/).
 
- Fairly comprehensive.
+ The official python tutorial. Fairly comprehensive.
 
 -
 
-* [Try Python](http://www.trypython.org/) is an old-ish but possibly worthwhile interactive intro to python in the browser.
+* [Try Python](http://www.trypython.org/).
+
+ An old-ish but possibly worthwhile interactive intro to python in the browser.
 
 -
 

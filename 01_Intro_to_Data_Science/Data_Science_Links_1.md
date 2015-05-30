@@ -51,3 +51,25 @@ About using data whether or not you use a fancy algorithm.
 Describes workflow with some complexity.
 
 -
+
+* <a href="http://www.quora.com/Data-Science/What-is-it-like-to-be-a-data-scientist">Quora: What is it like to be a data scientist?</a>
+
+-
+
+* <a href="http://www.youtube.com/watch?v=h9vQIPfe2uU"> Josh Wills: The Life of a Data Scientist</a>
+
+-
+
+* <a href="http://www.p-value.info/"> P-Value.info, Carl Anderson's blog (Director of Data at Warby Parker)</a>
+
+-
+
+* <a href="http://blog.okcupid.com/"> A look at OKCupid and their detailed work in trends</a>
+
+-
+
+* <a href="http://radar.oreilly.com/2011/09/building-data-science-teams.html">DJ Patil, Building Data Science Teams</a>
+
+-
+
+* <a href="http://benfry.com/phd/">Ben Fry's Dissertation: Computational Information Design </a>

@@ -99,7 +99,7 @@ If you’re running Windows.
 -
 
  * [Try Git](http://try.github.io/).
- *
+ 
  If you haven't used `git`, this will teach you the basics in 15 minutes, in your browser. 
 
 -
@@ -130,7 +130,7 @@ This one starts out very basic but eventually includes some sophisticated genera
 
 -
 
- * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+ * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/).
 
 This is probably the most popular intro to `python`, with a very distinctive voice, from the same author as the Command Line Crash Course, above.
 

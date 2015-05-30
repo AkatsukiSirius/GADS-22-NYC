@@ -73,3 +73,7 @@ Describes workflow with some complexity.
 -
 
 * <a href="http://benfry.com/phd/">Ben Fry's Dissertation: Computational Information Design </a>
+
+-
+
+* [http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/](http://machinelearningmastery.com/mistakes-programmers-make-when-starting-in-machine-learning/)

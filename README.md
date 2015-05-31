@@ -1,4 +1,4 @@
-#General Assembly Data Science Course 22 
+##General Assembly Data Science Course 22 
 
 ###June 3-Aug 19 2015
 

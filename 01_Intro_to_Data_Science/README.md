@@ -42,7 +42,7 @@ $ cd MyDataScienceToolbox
 $ vagrant init data-science-toolbox/dst
 $ vagrant up
 
-Step 4: MAC OS X or LINUX
+####Step 4: MAC OS X or LINUX
 
  - Log in to the Data Science Toolbox by excuting the following command in a terminal:
 

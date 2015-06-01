@@ -10,16 +10,16 @@ Susan is available during her regular office hours:
 and also by appointment - send an email:
 
 #Syllabus
-| Date          | Location       | Topic                          | Assignment Due |
-| :------------ |:---------------|:-------------------------------|:---------------|
-| Wed June 3    | GA West        | Intro To Data Science          | N/A            |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning      | DE01           |
-| Wed June 10   | 4th Floor      | GD & Linear Regression         |                |
-| Mon June 15   |                | GD in Practice                 |                |
-| Wed June 17   |                | LR Normal Equations            |                |
-| Mon June 22   |                | LR for Non-Linear Problems     |                |
-| Wed June 24   |                | Logistic Regression            |                |
-| Mon June 29   |                | Regularization                 |                |
+| Date          | Location       | Topic                                     | Assignment Due |
+| :------------ |:---------------|:------------------------------------------|:---------------|
+| Wed June 3    | GA West        | Intro To Data Science                     | N/A            |
+| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | DataExplorer1  |
+| Wed June 10   | 4th Floor      | Gradient Descent & Linear Models          |                |
+| Mon June 15   |                | Gradient Descent in Practice              |                |
+| Wed June 17   |                | Linear Models - Analytic Solution         |                |
+| Mon June 22   |                | Linear Models for Non-Linear Problems     |                |
+| Wed June 24   |                | Logistic Regression                       |                |
+| Mon June 29   |                | Regularization                            |                |
 | Wed July 1    |                | Unsupervised Learning          |                |
 | Mon July 6    |                | Dimensionality Reduction       |                |
 | Wed July 8    |                | Lightening Project Talks       |                |

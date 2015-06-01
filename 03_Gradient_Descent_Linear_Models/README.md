@@ -1,4 +1,4 @@
-#Lesson 3 Introduction Linear Regression and Gradient Descent
+#Lesson 3 Introduction Linear Models and Gradient Descent
 ###June 10th 2015
 
 ###Objectives for this class:

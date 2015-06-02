@@ -20,10 +20,25 @@ This includes the iPython Notebook environment
 
 ####Step 1: Download git
 
+https://git-scm.com/downloads
 
+####Step 2: Insall git
 
+- follow the instructions from the git site
 
+####Step 3: Clone the class repo:
 
+- Navigate to your home directory
+- Type: git clone git@github.com/https://github.com/ga-students/GADS-22-NYC.git
+
+####Step 4: Keep your repo up-to-date:
+
+- Before every work session, including before every class, pull the repo
+
+- Navigate to your copy of the repo
+- Type: git pull
+
+###IF YOU ARE NOT USING A VIRTUAL ENVIRONMENT THEN YOU ARE DONE!, OTHERWISE READ-ON
 
 ##-or-
 

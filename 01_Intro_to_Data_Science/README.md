@@ -10,6 +10,11 @@
   - clone the class repo
 - Discuss Data Science
 
+
+###Before Monday's class
+
+http://learnpythonthehardway.org/book/
+
 ###Download and Install the Anaconda Scientific Python Distribtuion
 
 https://store.continuum.io/cshop/anaconda/

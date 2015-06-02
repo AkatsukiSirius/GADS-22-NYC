@@ -16,13 +16,15 @@ https://store.continuum.io/cshop/anaconda/
 
 This includes the iPython Notebook environment
 
+- follow the instructions on the Anaconda website
+
 ###Getting the Class Repo
 
 ####Step 1: Download git
 
 https://git-scm.com/downloads
 
-####Step 2: Insall git
+####Step 2: Install git
 
 - follow the instructions from the git site
 

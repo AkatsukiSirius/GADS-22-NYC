@@ -5,6 +5,9 @@
 
 - Get to know each other!
 - Setup your computer environment
+  - install Anaconda
+  - install Git
+  - clone the class repo
 - Discuss Data Science
 
 ###Download and Install the Anaconda Scientific Python Distribtuion
@@ -12,6 +15,15 @@
 https://store.continuum.io/cshop/anaconda/
 
 This includes the iPython Notebook environment
+
+###Getting the Class Repo
+
+####Step 1: Download git
+
+
+
+
+
 
 ##-or-
 
@@ -48,7 +60,7 @@ $ vagrant up
 
 $ vagrant ssh
 
-##-or-
+#####-or-
 
 #####Step 4: MICROSOFT WINDOWS
 

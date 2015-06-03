@@ -26,7 +26,7 @@ and also by appointment - send an email:
 | Mon July 13   |                | Naive Bayes                    |                |
 | Wed July 15   |                | A/B Testing                    |                |
 | Mon July 20   |                | NLP                            |                |
-| Wed July 22   |                | Recommendeation Systems        |                |
+| Wed July 22   |                | Recommendation Systems         |                |
 | Mon July 27   |                | Guest Speakers                 |                |
 | Wed July 29   |                | Support Vector Machines        |                |
 | Mon August 3  |                | Visualization            ?     |                |

@@ -15,6 +15,8 @@
 
 http://learnpythonthehardway.org/book/
 
+- up to and including exercise 39
+
 ###Download and Install the Anaconda Scientific Python Distribtuion
 
 https://store.continuum.io/cshop/anaconda/

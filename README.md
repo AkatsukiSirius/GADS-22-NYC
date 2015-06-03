@@ -41,7 +41,7 @@ and also by appointment - send an email:
 
 Ask
 
-Your first port of call is to ask Susan or Mark.
+Your first port of call is to ask Susan, Chris or Mark.
 
 #Submitting Homework
 

@@ -6,7 +6,7 @@
 
 Mark is available by appointment - send an email: mrgh@me.com
 
-Susan is available during her regular office hours:
+Susan and Chris are available during their regular office hours:
 and also by appointment - send an email:
 
 #Syllabus

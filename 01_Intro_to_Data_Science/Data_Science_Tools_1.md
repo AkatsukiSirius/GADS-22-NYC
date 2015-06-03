@@ -1,5 +1,10 @@
 #Data Science Links
 
+* [iPython notebook built in magic commands](https://ipython.org/ipython-doc/dev/interactive/magics.html)
+
+ Official documentation for line magics, e.g. %inline
+ 
+-
 
 * [Numpy tutorial](http://www.python-course.eu/numpy.php).
 

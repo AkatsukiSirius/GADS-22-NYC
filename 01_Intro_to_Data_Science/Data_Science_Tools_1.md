@@ -1,5 +1,12 @@
 #Data Science Links
 
+
+* [Numpy tutorial](http://www.python-course.eu/numpy.php).
+
+ A relatively short tutorial on numpy.
+
+-
+
 * [Installing homebrew - Mac](http://brew.sh/#install). 
  
  If you’re running Mac OS X.

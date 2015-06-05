@@ -18,5 +18,5 @@
  * [Introduction to matplotlib](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/matplotlib_R.ipynb)
  * [Working with Data Notebook](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/working_with_data_annotated_R.ipynb)
  - This will be an interative session for Questions & Answers on anything that's worrying you with respect to the tools.
- - Guided Lab:
+- Guided Lab:
  * Should time permit we will move onto a new notebook where the class provides the answers.

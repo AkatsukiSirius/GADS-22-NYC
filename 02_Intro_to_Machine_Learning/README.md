@@ -14,3 +14,6 @@
 - Introduction to Machine Learning Slides
 - For the rest of class we will review the 4 notebooks:
  * [Introduction to the iPython notebook](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/ipython_notebook_intro.ipynb)
+ * [Introduction to numpy and pandas](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/numpy_and_pandas_R.ipynb)
+ * [Introduction to matplotlib](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/matplotlib_R.ipynb)
+ * [Working with Data Notebook](https://github.com/ga-students/GADS-22-NYC/blob/master/01_Intro_to_Data_Science/notebooks/working_with_data_annotated_R.ipynb)

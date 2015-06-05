@@ -4,9 +4,12 @@
 ###Objectives for this class:
 
 - Cover some of the essential concepts of Machine Learning
-- Establish some familiarity with our ML tools:
-  - iPython Notebook
-  - Python
-  - Numpy
-  - Pandas
+- Establish comfort and understanding with our core ML tools:
+  - iPython Notebook & Python
+  - Numpy & Pandas
   - Matplotlib
+- Where to find help when you get stuck
+
+###Class Agenda
+- Introduction to Machine Learning Slides
+- 

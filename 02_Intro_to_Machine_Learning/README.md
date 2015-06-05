@@ -12,4 +12,5 @@
 
 ###Class Agenda
 - Introduction to Machine Learning Slides
-- 
+- For the rest of class we will review the 4 notebooks:
+

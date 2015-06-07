@@ -3,14 +3,14 @@
 
 ###Objectives for this class:
 
-- Understand what characterises Machine Learning
-- Understand the two types of ML
-- Understand the different types of supervised learning
+- Know the key attribute that characterises Machine Learning
+- Know the two types of ML
+- Know the different types of supervised learning
 - Complete the Essential Python Lab
 
 ###Class Agenda
 
-- Introduction to Machine Learning Slides
-- Short quiz on supervised vs unsupervised learning
+- Introduction to Machine Learning Slides - Mark
+- Short quiz on supervised vs unsupervised learning - All
 
-- Independent class work lab: Essential Python
+- Independent class work lab: Essential Python - Class

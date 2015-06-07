@@ -10,14 +10,14 @@ Susan and Chris are available during their regular office hours:
 and also by appointment - send an email:
 
 #Syllabus
-| Date          | Location       | Topic                                     | Homework Set | Homework Due |
-| :------------ |:---------------|:------------------------------------------|:---------------|------------|
-| Wed June 3    | GA West        | Intro To Data Science                     | N/A            | |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | N/A            | |
-| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 | EDA            | |
-| Mon June 15   |                | Gradient Descent & Linear Models          |                |EDA---------|
-| Wed June 17   |                | Gradient Descent in Practice         |                |
-| Mon June 22   |                | Linear Models - Analytic Solution     |                |
+| Date          | Location       | Topic                                     | Homework Set   | Homework Due |
+| :------------ |:---------------|:------------------------------------------|:---------------|--------------|
+| Wed June 3    | GA West        | Intro To Data Science                     | N/A            |              |
+| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | N/A            |              |
+| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 | EDA            |              |
+| Mon June 15   |                | Gradient Descent & Linear Models          |                |EDA           |
+| Wed June 17   |                | Gradient Descent in Practice              |                |
+| Mon June 22   |                | Linear Models - Analytic Solution         |                |
 | Wed June 24   |                | Linear Models for Non-Linear Problems                       |                |
 | Mon June 29   |                | Logistic Regression                            |                |
 | Wed July 1    |                | Regularization                     |                |

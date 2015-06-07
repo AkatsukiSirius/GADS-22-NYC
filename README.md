@@ -10,26 +10,26 @@ Susan and Chris are available during their regular office hours:
 and also by appointment - send an email:
 
 #Syllabus
-| Date          | Location       | Topic                                     | Assignment Due |
-| :------------ |:---------------|:------------------------------------------|:---------------|
-| Wed June 3    | GA West        | Intro To Data Science                     | N/A            |
-| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | DataExplorer1  |
-| Wed June 10   | 4th Floor      | Gradient Descent & Linear Models          |                |
-| Mon June 15   |                | Gradient Descent in Practice              |                |
-| Wed June 17   |                | Linear Models - Analytic Solution         |                |
-| Mon June 22   |                | Linear Models for Non-Linear Problems     |                |
-| Wed June 24   |                | Logistic Regression                       |                |
-| Mon June 29   |                | Regularization                            |                |
-| Wed July 1    |                | Unsupervised Learning          |                |
-| Mon July 6    |                | Dimensionality Reduction       |                |
-| Wed July 8    |                | Lightening Project Talks       |                |
-| Mon July 13   |                | Naive Bayes                    |                |
-| Wed July 15   |                | A/B Testing                    |                |
-| Mon July 20   |                | NLP                            |                |
-| Wed July 22   |                | Recommendation Systems         |                |
-| Mon July 27   |                | Guest Speakers                 |                |
-| Wed July 29   |                | Support Vector Machines        |                |
-| Mon August 3  |                | Visualization            ?     |                |
+| Date          | Location       | Topic                                     | Homework Set | Homework Due |
+| :------------ |:---------------|:------------------------------------------|:---------------|------------|
+| Wed June 3    | GA West        | Intro To Data Science                     | N/A            | |
+| Mon June 8    | 10E. 21st St   | Intro to Machine Learning                 | N/A            | |
+| Wed June 10   | 4th Floor      | Exploratory Data Analysis                 | EDA            | |
+| Mon June 15   |                | Gradient Descent & Linear Models          |                |EDA---------|
+| Wed June 17   |                | Gradient Descent in Practice         |                |
+| Mon June 22   |                | Linear Models - Analytic Solution     |                |
+| Wed June 24   |                | Linear Models for Non-Linear Problems                       |                |
+| Mon June 29   |                | Logistic Regression                            |                |
+| Wed July 1    |                | Regularization                     |                |
+| Mon July 6    |                | Unsupervised Learning       |                |
+| Wed July 8    |                | Dimensionality Reduction       |                |
+| Mon July 13   |                | Lightening Project Talks                    |                |
+| Wed July 15   |                | Naive Bayes                    |                |
+| Mon July 20   |                | A/B Testing                           |                |
+| Wed July 22   |                | NLP          |                |
+| Mon July 27   |                |  Recommendation Systems                |                |
+| Wed July 29   |                |  Guest Speakers       |                |
+| Mon August 3  |                | Support Vector Machines    |                |
 | Wed August 5  |                | Databases                ?     |                |
 | Mon August 10 |                | Spark                    ?     |                |
 | Wed August 12 |                | Review                         |                |

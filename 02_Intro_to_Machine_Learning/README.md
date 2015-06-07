@@ -8,5 +8,6 @@
 - Understand the different types of supervised learning
 
 ###Class Agenda
+
 - Introduction to Machine Learning Slides
-- 
+- Short quiz on supervised vs unsupervised learning

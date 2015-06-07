@@ -6,7 +6,6 @@
 - Understand what characterises Machine Learning
 - Understand the two types of ML
 - Understand the different types of supervised learning
-- 
 
 ###Class Agenda
 - Introduction to Machine Learning Slides

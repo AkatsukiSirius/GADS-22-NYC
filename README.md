@@ -6,8 +6,14 @@
 
 Mark is available by appointment - send an email: mrgh@me.com
 
-Susan and Chris are available during their regular office hours:
-and also by appointment - send an email:
+Susan - regular office hours are:
+
+Mon  5:30 - 6:30 PM, 9:30 - 10:30 PM
+Wed  5:30 - 6:30 PM, 9:30 - 10:30 PM
+
+or by appointment - send an email: sun.w.susan@gmail.com
+
+Chris by appointment - send an email: rwc.sheehan@gmail.com
 
 #Syllabus
 | Date          | Location       | Topic                                     | Homework Set   | Homework Due |

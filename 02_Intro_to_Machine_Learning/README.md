@@ -23,6 +23,7 @@
 - Independent class work lab: Essential Python - Class to submit their notebooks
 - Most confusing exercise - All
 - Instructor led - explain what's confusing
+- Class to re-examing their notebooks and make and amendments prior to submission
 - Class close
   * Check in
   * Exit Ticket

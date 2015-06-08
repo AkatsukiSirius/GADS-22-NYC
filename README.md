@@ -8,18 +8,13 @@ Mark is available by appointment - send an email: mrgh@me.com
 
 Susan - regular office hours are:
 
-| Date          | 
+|           | 
 | :------------ |
-| Wed June 3    | 
-| Mon June 8    | 
-| Wed June 10   | 
-| Mon June 15   |     
+| Mon  5:30 - 6:30 PM    | 
+| Mon  9:30 - 10:30 PM    | 
+| Wed  5:30 - 6:30 PM   | 
+| Wed 9:30 - 10:30 PM   |     
 
-|:-----------------  |
-|Mon  5:30 - 6:30 PM |
-|Mon  9:30 - 10:30 PM |
-|Wed  5:30 - 6:30 PM |
-|Wed 9:30 - 10:30 PM |
 
 or by appointment - send an email: sun.w.susan@gmail.com
 

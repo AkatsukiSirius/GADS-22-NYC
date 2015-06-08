@@ -7,6 +7,7 @@
 - Know the two types of ML
 - Know the different types of supervised learning
 - Complete the Essential Python Lab
+- Complete the Essential Numpy Lab
 
 ###Class Agenda
 
@@ -14,3 +15,4 @@
 - Short quiz on supervised vs unsupervised learning - All
 
 - Independent class work lab: Essential Python - Class
+- Independent class work lab: Essential Numpy - Class

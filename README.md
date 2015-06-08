@@ -6,9 +6,9 @@
 
 Mark is available by appointment - send an email: mrgh@me.com
 
-Susan - regular office hours are:
 
-|           | 
+
+|  Susan - regular office hours | 
 | :------------ |
 | Mon  5:30 - 6:30 PM    | 
 | Mon  9:30 - 10:30 PM    | 

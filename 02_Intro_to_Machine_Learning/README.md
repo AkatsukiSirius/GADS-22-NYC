@@ -26,6 +26,5 @@
 - Class close
   * Check in
   * Exit Ticket
-
 - If time permits - Independent class work lab: Essential Numpy - Class 
   
